@@ -1,3 +1,1 @@
-Hello everyone from git version control class.
-
-This is class practice 1. We will learn more by practicing on github.
+Practice makes perfect and helps to be successful in learning coding.
