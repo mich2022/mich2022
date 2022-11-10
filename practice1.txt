@@ -1,3 +1,1 @@
-Hello everyone from git version control class.
-
-This is class practice 1. We should come together to study hard to win the market.
+Practice makes perfect and helps to be successful in learning coding.
