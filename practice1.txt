@@ -1,3 +1,3 @@
 Hello everyone from git version control class.
 
-This class practice 1. 
+This is class practice 1. We will learn more by practicing on github.
